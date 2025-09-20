@@ -1,5 +1,5 @@
 name: Deploy Ecommerce Fullstack App on EC2
- 
+ #why arent you working ohhhh
 on:  #during events
   push:
     branches: #i want this to happen when i make changes in main branch
